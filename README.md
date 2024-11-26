@@ -36,3 +36,5 @@ Follow these steps to set up the app on your local machine:
    ```
 
 ## SCREENSHOTS
+
+<img src="interface.png" alt="Screenshot 1" width="600"/>
